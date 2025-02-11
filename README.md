@@ -35,8 +35,8 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=husseinAbdElaziz&theme=buefy&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinAbdElaziz&theme=buefy&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=samiaAliHamada&theme=buefy&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiaAliHamada&theme=buefy&layout=compact)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
